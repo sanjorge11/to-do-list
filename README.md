@@ -1,16 +1,19 @@
-# Useful Docker Commands
+# To-Do List
+`Dockerized multi-tier to-do list web application`
 
-## Build containers
+## Useful Docker Commands
+
+### Build containers
 `docker-compose build`
 
-## Run containers
+### Run containers
 `docker-compose up` 
 
-## Run containers in detached mode 
+### Run containers in detached mode 
 `docker-compose up -d`
 
-## Build containers and run in detached mode
+### Build containers and run in detached mode
 `docker-compose up -d --build`
 
-## Shut down containers
+### Shut down containers
 `docker-compose down`
