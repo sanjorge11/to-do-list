@@ -1,5 +1,5 @@
 # To-Do List
-Dockerized multi-tier to-do list web application
+Dockerized to-do list application
 
 ## Useful Docker Commands
 
